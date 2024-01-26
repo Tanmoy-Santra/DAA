@@ -5,8 +5,8 @@
 This repository contains implementations of various algorithms related to the Design and Analysis of Algorithms (DAA). These algorithms cover a wide range of topics, including sorting, searching, graph algorithms, dynamic programming, and more.
 
 ## Ingredients
-<img alt="C" src="![image](https://github.com/Tanmoy-Santra/DAA-SEM4/assets/123796923/3eb4e8fd-6a0c-422c-ad2b-43395eb71f7f)
-" />
+![Alt C](![image](https://github.com/Tanmoy-Santra/DAA-SEM4/assets/123796923/19f3f4ad-ed98-4aec-bf5f-363b234e757e)
+)
 
 ## Algorithms
 
